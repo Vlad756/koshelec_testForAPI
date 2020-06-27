@@ -13,3 +13,6 @@ Tests API Site
    4) python test1.py
   
 В коде присутствуют разъяснительные комментарии.
+
+Результат теста №1:
+![test1](https://user-images.githubusercontent.com/64403999/85932377-56610d80-b8d4-11ea-8aa0-e65a993a927e.png)
